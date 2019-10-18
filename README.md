@@ -3,7 +3,7 @@
 ### CSS
 
 1. [介绍一下CSS的盒子模型。](https://github.com/janessasmith/frontend-interview-questions/issues/1)
-2. 介绍下 BFC 及其应用。
+2. [介绍下 BFC 及其应用。](https://github.com/janessasmith/frontend-interview-questions/issues/2)
 3. CSS 选择符有哪些？哪些属性可以继承？优先级算法如何计算？ CSS3新增伪类有那些？
 4. 为什么要初始化CSS样式。
 5. 行内元素有哪些？块级元素有哪些？空元素有哪些？并说明其区别。
